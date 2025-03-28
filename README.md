@@ -44,7 +44,7 @@
 | **Guess the Company**| [GitHub](https://github.com/KseniaSOS/Guess-the-Company)         | HTML5, CSS, JavaScript                             |
 | **Memory Game**      | [GitHub](https://github.com/KseniaSOS/memory_game)               | HTML5, CSS, JavaScript, Python, Flask, Heroku, MongoDB |
 | **Sweet Code Blog**  | [GitHub](https://github.com/KseniaSOS/sweet-code-blog)           | Python, Heroku                                      |
-| **One Fine Day**     | [GitHub](https://github.com/KseniaSOS/luminique_store)           | HTML5, CSS, JavaScript, Python, Django, Heroku, AWS, Stripe |
+| **Luminique Store**     | [GitHub](https://github.com/KseniaSOS/luminique_store)           | HTML5, CSS, JavaScript, Python, Django, Heroku, AWS, Stripe |
 
 ---
 
